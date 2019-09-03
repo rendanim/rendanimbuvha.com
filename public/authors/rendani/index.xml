@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rendani Mbuvha</title>
+    <link>/authors/rendani/</link>
+      <atom:link href="/authors/rendani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rendani Mbuvha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rendani Mbuvha 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rendani Mbuvha</title>
+      <link>/authors/rendani/</link>
+    </image>
+    
+  </channel>
+</rss>

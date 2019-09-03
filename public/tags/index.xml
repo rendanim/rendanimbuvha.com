@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Rendani Mbuvha</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Rendani Mbuvha 2019</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>ANFIS</title>
+      <link>/tags/anfis/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/anfis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzy Inference</title>
+      <link>/tags/fuzzy-inference/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/fuzzy-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Algorithm</title>
+      <link>/tags/genetic-algorithm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/genetic-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation</title>
+      <link>/tags/optimisation/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Swarm</title>
+      <link>/tags/particle-swarm/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/particle-swarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>/tags/renewable-energy/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind Power</title>
+      <link>/tags/wind-power/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/wind-power/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>/tags/neural-networks/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Relevence Determination</title>
+      <link>/tags/automatic-relevence-determination/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/automatic-relevence-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian</title>
+      <link>/tags/bayesian/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian Approximation</title>
+      <link>/tags/gaussian-approximation/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/gaussian-approximation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cannon&#39;s Algorithm</title>
+      <link>/tags/cannons-algorithm/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/cannons-algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Multiplication</title>
+      <link>/tags/matrix-multiplication/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/matrix-multiplication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Computation</title>
+      <link>/tags/parallel-computation/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/parallel-computation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
